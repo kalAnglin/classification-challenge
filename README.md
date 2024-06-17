@@ -1,7 +1,7 @@
 # classification-challenge
 
 <div align='center'>
-    <img src='Spam_Filter.png' alt='Image of 2 spam emails and one regular email going through a classifier'/>
+    <img src='images/Spam_Classifier.png' alt='Image of 2 spam emails and one regular email going through a classifier'/>
 </div>
 
 ## Overview
