@@ -1,14 +1,14 @@
 # classification-challenge
+I worked with ChatGPT 4o to complete this assignment
+
+## Overview
+* Classification is the method to predict discrete valued variables. A discrete variable has no middle, and its values cannot be divided. Data scientist use classificaiton to draw categorical conclusions about data (true-positive/true-negative)
+
+Hypothesis: Random Forest Classifier will perform better due to the utilization of ensemble learning to randomnly sample data and create decision tree for smaller portions of data. By combining the smaller decision trees to create a stronger classifier, the Random Forest Model will have much better decision-making accuracy than the Logistic Regression Model.
 
 <div align='center'>
     <img src='images/Spam_Classifier.png' alt='Image of 2 spam emails and one regular email going through a classifier'/>
 </div>
-
-## Overview
-
-* Classification is the method to predict discrete valued variables. A discrete variable has no middle, and its values cannot be divided. Data scientist use classificaiton to draw categorical conclusions about data (true-positive/true-negative)
-
-Hypothesis: Random Forest Classifier will perform better due to the utilization of ensemble learning to randomnly sample data and create decision tree for smaller portions of data. By combining the smaller decision trees to create a stronger classifier, the Random Forest Model will have much better decision-making accuracy than the Logistic Regression Model.
 
 ## Methods
 
