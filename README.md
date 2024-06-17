@@ -35,7 +35,7 @@ Hypothesis: Random Forest Classifier will perform better due to the utilization 
 ## Results
 
 <div align='center'>
-    <img src='images/Random_Forrest.png' alt='Nine trees representing a subset of data ramdonly sampled and the corresponding prediction'/>
+    <img src='images/Random_Forests.png' alt='Nine trees representing a subset of data ramdonly sampled and the corresponding prediction'/>
 </div>
 
 * The Random Forest Model performed better than the Logistic Regression model based on the accuracy score which adheres to my predictions, however I was expecting a much larger disparity than .04 between the two models. My predictions were based on the Random Forest Model being capable of capturing complex, non-linear relationships between features by sampling different combinations and interactions of features which is integral to identifying spam. Spam detection datasets often contain intricate patterns a linear regression model may not be able to capture as effectively.
